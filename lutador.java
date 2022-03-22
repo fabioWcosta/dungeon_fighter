@@ -1,6 +1,7 @@
 public class lutador {
     String nome;
-    String classeArmadura;
+    int classeArmadura;
+
     int DV;
     int hp;
 }
