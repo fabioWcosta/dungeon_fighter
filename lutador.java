@@ -4,4 +4,5 @@ public class lutador {
     int bonusProficiencia;
     int DV;
     int hp;
+    int dano;
 }
