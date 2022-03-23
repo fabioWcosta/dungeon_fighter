@@ -8,4 +8,6 @@ public class lutador {
     int hp;
     int dano;
     int iniciativa;
+
+    //
 }
