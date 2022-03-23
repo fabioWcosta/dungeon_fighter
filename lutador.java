@@ -9,5 +9,8 @@ public class lutador {
     int dano;
     int iniciativa;
 
-    //
+    //métodos principais
+
+
+
 }
