@@ -10,7 +10,9 @@ public class lutador {
     int iniciativa;
 
     //métodos principais
-    private rolarIniciatira(){}
+    private rolarIniciativa(){
+
+    }
 
 
 }
