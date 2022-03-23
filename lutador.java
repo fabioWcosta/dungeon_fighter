@@ -14,7 +14,7 @@ public class lutador {
         return this.iniciativa;
         double random = Math.random();
 
-        random = iniciativa; 
+        this.iniciativa = random; 
     }
 
 
