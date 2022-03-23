@@ -10,8 +10,8 @@ public class lutador {
     int iniciativa;
 
     //métodos principais
-    public float lutador.iniciativa(){
-        float random = Math.random();
+    public double lutador.iniciativa(){
+        double random = Math.random();
 
         random = iniciativa; 
     }
