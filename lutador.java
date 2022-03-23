@@ -13,6 +13,7 @@ public class lutador {
     private int lutador.iniciativa(){
         int random = Math.random();
         random = iniciativa;
+        int 
     }
 
 
