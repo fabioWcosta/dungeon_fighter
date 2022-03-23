@@ -11,7 +11,7 @@ public class lutador {
 
     //métodos principais
     private int lutador.rolarIniciativa(){
-
+        int iniciativa = Math.random();
     }
 
 
