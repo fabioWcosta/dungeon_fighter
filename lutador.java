@@ -20,8 +20,4 @@ public class lutador {
         this.iniciativa = iniciativa;
     }
 
-    function getRandomArbitrary(min, max) {
-        return Math.random() * (max - min) + min;
-      }
-
 
