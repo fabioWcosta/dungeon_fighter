@@ -10,14 +10,18 @@ public class lutador {
     int iniciativa;
 
     //métodos principais
-    public double getIniciativa(1, 20){
+    public double getIniciativa(){
         return this.iniciativa; 
         double random = Math.random();
 
         this.iniciativa = random; 
     }
+    public void setIniciativa(int iniciativa){
+        this.iniciativa = iniciativa;
+    }
+
     function getRandomArbitrary(min, max) {
         return Math.random() * (max - min) + min;
       }
 
-}
+
