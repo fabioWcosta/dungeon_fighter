@@ -11,10 +11,10 @@ public class lutador {
 
     //métodos principais
     public double getIniciativa(){
-        return this.iniciativa; 
         double random = Math.random();
         int inic = (int) (1 + random *(20 - 1));
         this.iniciativa = inic; 
+        return this.iniciativa; 
 
     }
     public void setIniciativa(int iniciativa){
