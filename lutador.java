@@ -13,8 +13,8 @@ public class lutador {
     public double getIniciativa(){
         return this.iniciativa; 
         double random = Math.random();
-        int inic = (int) (1 + random *(20 - ));
-        this.iniciativa = random; 
+        int inic = (int) (1 + random *(20 - 1));
+        this.iniciativa = inic; 
     }
     public void setIniciativa(int iniciativa){
         this.iniciativa = iniciativa;
