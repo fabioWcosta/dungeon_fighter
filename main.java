@@ -4,5 +4,5 @@ public static void main(String[] args) {
     c1.nome = "humano";
     c1.classeArmadura = 10; 
     c1.bonusProficiencia = 2;
-    c1.DV;
+    c1.DV = 1;
 }
