@@ -16,7 +16,7 @@ public class lutador {
         this.iniciativa = inic; 
         return this.iniciativa; 
 
-        System.out.println("A iniciativa de fulano é " iniciativa +);
+        System.out.println("A iniciativa de fulano é " + iniciativa + "!");
     }
     public void setIniciativa(int iniciativa){
         this.iniciativa = iniciativa;
