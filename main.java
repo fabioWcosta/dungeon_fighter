@@ -5,5 +5,5 @@ public static void main(String[] args) {
     c1.classeArmadura = 10; 
     c1.bonusProficiencia = 2;
     c1.DV = 1;
-    c1.
+    c1.hp;
 }
