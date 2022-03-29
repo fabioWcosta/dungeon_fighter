@@ -17,7 +17,9 @@ public static void main(String[] args) {
         System.out.println("Adaga (1d4 de dano)");
     }else if(item == 2){
         System.out.println("Punhal (1d4 de dano)");
-    }
+    }else if(item == 3){
+        System.out.println("Porrete (1d4 de dano)");
+    }else if(
 
     }
 };
