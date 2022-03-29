@@ -14,8 +14,10 @@ public static void main(String[] args) {
     System.out.println("Resultado do Loot: " + item);
 
     if(item == 1){
-        System.out.println("Pontos de vida do lutador:" + c1.hp);
-
+        System.out.println("Adaga (1d4 de dano)");
+    }else if(item == 2){
+        System.out.println("Punhal (1d4 de dano)");
     }
+
     }
 };
