@@ -13,7 +13,7 @@ public static void main(String[] args) {
     int item = (int)(1 +loot *(100 - 1));
     System.out.println("Resultado do Loot: " + item);
 
-    if(item < ){
+    if(item == 1){
 
 
     }
