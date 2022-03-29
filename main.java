@@ -8,4 +8,6 @@ public static void main(String[] args) {
     c1.hp = 10;
 
     System.out.println("Pontos de vida do lutador:" + c1.hp);
+
+    float loot = Math.random();
 }
