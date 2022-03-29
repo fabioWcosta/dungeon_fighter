@@ -14,7 +14,7 @@ public static void main(String[] args) {
     System.out.println("Resultado do Loot: " + item);
 
     if(item == 1){
-
+        
 
     }
     }
