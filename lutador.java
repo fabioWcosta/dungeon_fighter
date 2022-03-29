@@ -22,4 +22,22 @@ public class lutador {
         this.iniciativa = iniciativa;
     }
 
+    float loot = Math.random();
+    int item = (int)(1 +loot *(100 - 1));
+    System.out.println("Resultado do Loot: " + item);
+
+    if(item == 1){
+        System.out.println("Adaga (1d4 de dano)");
+    }else if(item == 2){
+        System.out.println("Punhal (1d4 de dano)");
+    }else if(item == 3){
+        System.out.println("Porrete (1d4 de dano)");
+    }else if(item == 4){
+        System.out.println("Maça leve enferrujada (1d4 de dano)");
+    }else if(item == 5){
+        System.out.println("Porrete reforçado(1d6 de dano)");
+    }else if(item == 6){
+        System.out.println("Espada curta (1d6 de dano)");
+    };
+
 
