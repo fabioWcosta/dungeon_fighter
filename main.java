@@ -19,7 +19,9 @@ public static void main(String[] args) {
         System.out.println("Punhal (1d4 de dano)");
     }else if(item == 3){
         System.out.println("Porrete (1d4 de dano)");
-    }else if(
-
+    }else if(item == 4){
+        System.out.println("Maça leve enferrujada (1d4 de dano)");
+    }else if(item == 5){
+        System.out.println("Porrete (1d4 de dano)");
     }
 };
