@@ -22,9 +22,9 @@ public class lutador {
         this.iniciativa = iniciativa;
     }
 
-    float loot = Math.random();
+    double loot = Math.random();
     int item = (int)(1 +loot *(100 - 1));
-    System.out.println("Resultado do Loot: " + item);
+    System.out.println("Resultado do Loot: " + item
 
     if(item == 1){
         System.out.println("Adaga (1d4 de dano)");
@@ -38,6 +38,6 @@ public class lutador {
         System.out.println("Porrete reforçado(1d6 de dano)");
     }else if(item == 6){
         System.out.println("Espada curta (1d6 de dano)");
-    };
+    }
 
 
