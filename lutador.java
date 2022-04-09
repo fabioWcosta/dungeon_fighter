@@ -24,7 +24,7 @@ public class lutador {
 
     double loot = Math.random();
     int item = (int)(1 +loot *(100 - 1));
-    System.out.println("Resultado do Loot: " + item
+    System.out.println("Resultado do Loot: " + item);
 
     if(item == 1){
         System.out.println("Adaga (1d4 de dano)");
