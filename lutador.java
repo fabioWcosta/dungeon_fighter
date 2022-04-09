@@ -8,7 +8,7 @@ public class lutador {
     int hp;
     int dano;
     int iniciativa;
-    int item;
+    //int item;
 
     //métodos principais
     public double getIniciativa(){
