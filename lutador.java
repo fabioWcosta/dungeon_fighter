@@ -8,6 +8,7 @@ public class lutador {
     int hp;
     int dano;
     int iniciativa;
+    int item;
 
     //métodos principais
     public double getIniciativa(){
@@ -39,5 +40,7 @@ public class lutador {
     }else if(item == 6){
         System.out.println("Espada curta (1d6 de dano)");
     }
+
+};
 
 
