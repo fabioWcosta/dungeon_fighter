@@ -15,14 +15,13 @@ public class lutador {
         double random = Math.random();
         int inic = (int) (1 + random *(20 - 1));
         this.iniciativa = inic; 
-        return this.iniciativa; 
-
-        System.out.println("A iniciativa de fulano é " + iniciativa + "!");
+        //return this.iniciativa; 
+        
     }
     public void setIniciativa(int iniciativa){
         this.iniciativa = iniciativa;
     }
-
+/*
     double loot = Math.random();
     int item = (int)(1 +loot *(100 - 1));
     System.out.println("Resultado do Loot: " + item);
@@ -40,7 +39,7 @@ public class lutador {
     }else if(item == 6){
         System.out.println("Espada curta (1d6 de dano)");
     }
-
+*/
 };
 
 
