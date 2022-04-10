@@ -9,5 +9,6 @@ public static void main(String[] args) {
 
     System.out.println("Pontos de vida do lutador:" + c1.hp);
 
+    public 
     
 }
