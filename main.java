@@ -12,7 +12,7 @@ public static void main(String[] args) {
     public int setInic(){
         double randomico = Math.random();
         int resultado = (int) (1 + randomico * (6-1));
-        return resuldado;
+        return resultado;
     }
     
 }
