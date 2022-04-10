@@ -9,7 +9,7 @@ public static void main(String[] args) {
 
     System.out.println("Pontos de vida do lutador:" + c1.hp);
 
-    public int inic(){
+    public int setInic(){
         double randomico = Math.random();
         int resultado = (int) (1 + randomico * (6-1));
         return resuldado;
