@@ -26,7 +26,7 @@ public class lutador {
     int lootItem = (int)(1 +loot *(100 - 1));
     System.out.println("Resultado do Loot: " + item);
 
-    /* CÓDIGO PARA OUTRO SISTEMA: 
+    /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
     if(item == 1){
         System.out.println("Adaga (1d4 de dano)");
     }else if(item == 2){
