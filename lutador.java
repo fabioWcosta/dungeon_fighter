@@ -22,11 +22,13 @@ public class lutador {
         this.iniciativa = iniciativa;
     }
 
+
+    
+    /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
     double loot = Math.random();
     int lootItem = (int)(1 +loot *(100 - 1));
     System.out.println("Resultado do Loot: " + item);
 
-    /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
     if(item == 1){
         System.out.println("Adaga (1d4 de dano)");
     }else if(item == 2){
