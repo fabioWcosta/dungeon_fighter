@@ -10,11 +10,12 @@ public class principal {
         
             System.out.println("Pontos de vida do lutador:" + c1.hp);
         
+            /*
             public int setInic(){
                 double randomico = Math.random();
                 int resultado = (int) (1 + randomico * (6-1));
                 return resultado;
             }
-            
+            */
         }
 }
