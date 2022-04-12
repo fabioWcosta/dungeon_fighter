@@ -8,7 +8,7 @@ public class lutador {
     int hp;
     int dano;
     int iniciativa;
-    //int item;
+    int item;
 
     //métodos principais
     public double getIniciativa(){
@@ -21,11 +21,12 @@ public class lutador {
     public void setIniciativa(int iniciativa){
         this.iniciativa = iniciativa;
     }
-/*
+
     double loot = Math.random();
-    int item = (int)(1 +loot *(100 - 1));
+    int lootItem = (int)(1 +loot *(100 - 1));
     System.out.println("Resultado do Loot: " + item);
 
+    /* CÓDIGO PARA OUTRO SISTEMA: 
     if(item == 1){
         System.out.println("Adaga (1d4 de dano)");
     }else if(item == 2){
@@ -39,7 +40,7 @@ public class lutador {
     }else if(item == 6){
         System.out.println("Espada curta (1d6 de dano)");
     }
-*/
+    */
 };
 
 
