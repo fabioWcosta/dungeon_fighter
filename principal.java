@@ -9,7 +9,7 @@ public class principal {
             c1.hp = 10;
         
             System.out.println("Pontos de vida do lutador:" + c1.hp);
-            System.out.println("I do lutador:" + c1.iniciativa);
+            System.out.println("Iniciativa do lutador:" + c1.iniciativa);
         
             //c1.iniciativa();
             
