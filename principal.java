@@ -10,6 +10,8 @@ public class principal {
         
             System.out.println("Pontos de vida do lutador:" + c1.hp);
         
+            c1.iniciativa();
+            
             /*
             public int setInic(){
                 double randomico = Math.random();
