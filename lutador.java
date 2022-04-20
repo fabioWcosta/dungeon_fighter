@@ -20,7 +20,7 @@ public class lutador {
         return this.iniciativa; 
         //System.out.println("A iniciativa de fulano é " + iniciativa + "!");
     }
-    public void setIniciativa(int iniciativa){
+    public void iniciativa(int iniciativa){
         this.iniciativa = iniciativa;
     }
 
