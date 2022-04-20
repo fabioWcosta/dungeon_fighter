@@ -9,6 +9,7 @@ public class lutador {
     int dano;
     int iniciativa;
     int item;
+    String apresentacao;
 
     //métodos principais
     //métodos getter/setter
