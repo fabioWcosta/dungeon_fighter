@@ -22,6 +22,7 @@ public class lutador {
     }
     public void iniciativa(){
         double random = Math.random();
+        int init = (int) (1 - random *(20-1));
     }
 
 
