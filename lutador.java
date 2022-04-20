@@ -21,7 +21,7 @@ public class lutador {
         //System.out.println("A iniciativa de fulano é " + iniciativa + "!");
     }
     public void iniciativa(){
-        this.iniciativa = iniciativa;
+        
     }
 
 
