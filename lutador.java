@@ -13,13 +13,7 @@ public class lutador {
 
     //métodos principais
     //métodos getter/setter
-    public double getIniciativa(){
-        double random = Math.random();
-        int inic = (int) (1 + random *(20 - 1));
-        this.iniciativa = inic; 
-        return this.iniciativa; 
-        //System.out.println("A iniciativa de fulano é " + iniciativa + "!");
-    }
+    
     public void iniciativa(){
         double random = Math.random();
         int init = (int) (1 + random *(20-1));
