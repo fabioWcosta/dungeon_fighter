@@ -12,7 +12,6 @@ public class lutador {
     String apresentacao;
 
     //métodos principais
-    //métodos getter/setter
     
     public void iniciativa(){
         double random = Math.random();
@@ -20,6 +19,7 @@ public class lutador {
         System.out.println("A iniciativa é: "  + init);
     }
 
+    //métodos getter/setter
 
     
     /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
