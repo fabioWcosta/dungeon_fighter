@@ -19,8 +19,6 @@ public class lutador {
         System.out.println("A iniciativa é: "  + init);
 
 
-
-
     }
 
     //métodos getter/setter
