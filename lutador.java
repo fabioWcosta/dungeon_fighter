@@ -19,9 +19,7 @@ public class lutador {
         System.out.println("A iniciativa é: "  + init);
     }
 
-    //métodos getter/setter
-
-    
+    //métodos getter/setsdf´p´´p
     /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
     double loot = Math.random();
     int lootItem = (int)(1 +loot *(100 - 1));
