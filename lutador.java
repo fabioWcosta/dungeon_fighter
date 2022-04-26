@@ -20,6 +20,7 @@ public class lutador {
     }
 
     //métodos getter/setter
+    
     /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
     double loot = Math.random();
     int lootItem = (int)(1 +loot *(100 - 1));
