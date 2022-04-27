@@ -19,7 +19,9 @@ public class lutador {
         System.out.println("A iniciativa é: "  + init);
     }
 
-    public void apresentacao()
+    public void apresentacao(){
+        
+    }
     //métodos getter/setter
 
     /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
