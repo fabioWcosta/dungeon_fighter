@@ -17,7 +17,6 @@ public class lutador {
         double random = Math.random();
         int init = (int) (1 + random *(20-1));
         System.out.println("A iniciativa é: "  + init);
-        System.out.printl("Quem começa é"+ c1.nome);
 
 
     }
