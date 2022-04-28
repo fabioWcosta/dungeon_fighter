@@ -1,7 +1,7 @@
 public class principal {
         public static void main(String[] args) {
-            lutador l1 = new  lutador();
-        
+            lutador l[] = new  lutador();
+            
             
             l1.nome = "humano";
             l1.classeArmadura = 10; 
