@@ -22,6 +22,7 @@ public class lutador {
     public void apresentacao(){
         System.out.println("-------------------------------");
         System.out.println("E comecará o combate!");
+        System.out.prinln("De um lado temos o OPONENTE 1 , ")
     }
     //métodos getter/setter
 
