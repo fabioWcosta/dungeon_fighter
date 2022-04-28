@@ -7,7 +7,7 @@ public class principal {
             l1.classeArmadura = 10; 
             c1.bonusProficiencia = 2;
             c1.DV = 1;
-            c1.hp = 10;
+            1.hp = 10;
         
             System.out.println("Pontos de vida do lutador:" + c1.hp);
             System.out.println("Iniciativa do lutador:" + c1.iniciativa);
