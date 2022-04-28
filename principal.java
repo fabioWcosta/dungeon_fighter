@@ -1,6 +1,6 @@
 public class principal {
         public static void main(String[] args) {
-            lutador c1 = new combatente();
+            lutador c1 = new  OSE!();
         
             
             c1.nome = "humano";
