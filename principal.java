@@ -1,7 +1,7 @@
 public class principal {
         public static void main(String[] args) {
             lutador l[] = new  lutador[6];
-            lutador [1] = {"humano", 10, 2, 1, 10};
+            l [1] = {"humano", 10, 2, 1, 10};
             
             l1.nome = "humano";
             l1.classeArmadura = 10; 
@@ -9,8 +9,8 @@ public class principal {
             l1.DV = 1;
             l1.hp = 10;
         
-            System.out.println("Pontos de vida do lutador:" + c1.hp);
-            System.out.println("Iniciativa do lutador:" + c1.iniciativa);
+            System.out.println("Pontos de vida do lutador:" + l1.hp);
+            System.out.println("Iniciativa do lutador:" + l1.iniciativa);
         
             l1.iniciativa();
 
