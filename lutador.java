@@ -6,6 +6,7 @@ public class lutador {
     int bonusProficiencia;
     int DV;
     int hp;
+    String arma;
     int dano;
     int iniciativa;
     String apresentacao;
