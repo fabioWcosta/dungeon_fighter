@@ -10,6 +10,7 @@ public class lutador {
     int dano;
     int iniciativa;
     String apresentacao;
+    String
 
     //métodos principais
     
