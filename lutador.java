@@ -8,7 +8,7 @@ public class lutador {
     int hp;
     int dano;
     int iniciativa;
-    int item;
+    int arma;
     String apresentacao;
 
     //métodos principais
