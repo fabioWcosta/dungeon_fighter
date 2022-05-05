@@ -30,7 +30,8 @@ public class lutador {
 
     public lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa, String apresentacao, String status) {
 
-        
+        this.nome = nome;
+        this.classeArmadura = 
     }
 
     //métodos getter/setter
