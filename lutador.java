@@ -16,7 +16,7 @@ public class lutador {
     
     public void iniciativa(){
         double random = Math.random();
-        int init = (int) (1 + random *(20-1));
+        int init = (int) (1 + random *(20-1)); 
         System.out.println("A iniciativa é: "  + init);
     }
 
@@ -27,8 +27,8 @@ public class lutador {
     }
 
     //métodos especiais
-    
 
+    public lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa, String apresentacao, String status;);
 
     //métodos getter/setter
 
