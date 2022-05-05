@@ -38,6 +38,7 @@ public class lutador {
         this.arma = arma;
         this.dano = dano;
         this.iniciativa = iniciativa;
+        this.apresentacao = apresentacao;
     }
 
     //métodos getter/setter
