@@ -28,7 +28,10 @@ public class lutador {
 
     //métodos especiais
 
-    public lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa, String apresentacao, String status;);
+    public lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa, String apresentacao, String status) {
+
+        
+    }
 
     //métodos getter/setter
 
