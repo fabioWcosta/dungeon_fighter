@@ -25,6 +25,11 @@ public class lutador {
         System.out.println("E comecará o combate!");
         System.out.println("De um lado temos o OPONENTE 1 , ");
     }
+
+    //métodos especiais
+
+
+    
     //métodos getter/setter
 
     /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
