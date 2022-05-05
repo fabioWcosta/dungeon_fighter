@@ -27,9 +27,9 @@ public class lutador {
     }
 
     //métodos especiais
-
-
     
+
+
     //métodos getter/setter
 
     /* CÓDIGO PARA OUTRO SISTEMA: chosen undead!
