@@ -34,7 +34,8 @@ public class lutador {
         this.classeArmadura = classeArmadura;
         this.bonusProficiencia = bonusProficiencia;
         this.DV = DV;
-        
+        this.hp = hp;
+        this.
     }
 
     //métodos getter/setter
