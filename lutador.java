@@ -39,6 +39,7 @@ public class lutador {
         this.dano = dano;
         this.iniciativa = iniciativa;
         this.apresentacao = apresentacao;
+        this.status = status;
     }
 
     //métodos getter/setter
