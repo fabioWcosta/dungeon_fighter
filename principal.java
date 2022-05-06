@@ -1,6 +1,7 @@
 public class principal {
         public static void main(String[] args) {
-            lutador l = new lutador("humano", 14, 2, 1, 10, "espada longa", "1d8", );
+            
+            Lutador l = new Lutador("humano", 14, 2, 1, 10, "espada longa", 5, 2);
             
             /*
             lutador l[] = new  lutador[6];
