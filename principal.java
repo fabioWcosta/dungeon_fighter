@@ -3,10 +3,10 @@ public class principal {
 
             Lutador l = new Lutador ("humano", 14, 2, 1, 10, "espada longa", 5, 2);
             
-            /*
+            
             lutador l[] = new  lutador[6];
             l [1] = {"humano", 10, 2, 1, 10};
-            */ 
+            
 
             System.out.println("Pontos de vida do lutador:" + l.hp);
             System.out.println("Iniciativa do lutador:" + l.iniciativa);
