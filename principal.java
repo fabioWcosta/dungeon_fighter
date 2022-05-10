@@ -4,7 +4,7 @@ public class principal {
             lutador l = new Lutador ("humano", 14, 2, 1, 10, "espada longa", 5, 2);
             
             
-            lutador l [] = new  lutador[6];
+            //lutador l [] = new  lutador[6];
             l [1] = {"humano", 10, 2, 1, 10};
             
 
