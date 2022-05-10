@@ -5,7 +5,7 @@ public class principal {
             
             
             //lutador l [] = new  lutador[6];
-            l [1] = {"humano", 10, 2, 1, 10};
+            //l [1] = {"humano", 10, 2, 1, 10};
             
 
             System.out.println("Pontos de vida do lutador:" + l.hp);
