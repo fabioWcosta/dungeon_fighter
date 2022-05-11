@@ -27,7 +27,9 @@ public class lutador {
     }
 
     //método construtor:
-    public Lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa, String apresentacao, String status) {
+    public Lutador(String no, String na, int id, float al, float pe, int vi, int de, int em) {
+
+    public Lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa) {
 
         this.nome = nome;
         this.classeArmadura = classeArmadura;
@@ -37,8 +39,6 @@ public class lutador {
         this.arma = arma;
         this.dano = dano;
         this.iniciativa = iniciativa;
-        this.apresentacao = apresentacao;
-        this.status = status;
     }
 
     //métodos getter/setter
