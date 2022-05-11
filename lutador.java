@@ -26,8 +26,7 @@ public class lutador {
         System.out.println("De um lado temos o OPONENTE 1 , ");
     }
 
-    //métodos especiais
-
+    //método construtor:
     public Lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa, String apresentacao, String status) {
 
         this.nome = nome;
