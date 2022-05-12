@@ -8,7 +8,7 @@ public class principal {
             System.out.println("Pontos de vida do lutador:" + l.hp);
             System.out.println("Iniciativa do lutador:" + l.iniciativa);
         
-            l.iniciativa();
+            l[1].iniciativa();
 
             /*
             public int setInic(){
