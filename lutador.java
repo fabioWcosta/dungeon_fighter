@@ -21,16 +21,13 @@ public class lutador {
     }
 
     public void apresentacao(){
-        System.out.println("-------------------------------");
+        System.out.println("----------------------------------");
         System.out.println("E comecará o combate!");
         System.out.println("De um lado temos o OPONENTE 1 , ");
     }
 
     //método construtor:
-    public Lutador(String no, String na, int id, float al, float pe, int vi, int de, int em) {
-
     public Lutador(String nome, int classeArmadura, int bonusProficiencia, int DV, int hp, String arma, int dano, int iniciativa) {
-
         this.nome = nome;
         this.classeArmadura = classeArmadura;
         this.bonusProficiencia = bonusProficiencia;
