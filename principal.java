@@ -5,7 +5,7 @@ public class principal {
             
             //("humano", 14, 2, 1, 10, "espada longa", 5, 2);
 
-            System.out.println("Pontos de vida do lutador:" + l.hp);
+            System.out.println("Pontos de vida do lutador:" + l[1].hp);
             System.out.println("Iniciativa do lutador:" + l.iniciativa);
         
             l[1].iniciativa();
