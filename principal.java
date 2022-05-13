@@ -9,8 +9,6 @@ public class principal {
             System.out.println("Iniciativa do lutador:" + l[1].iniciativa);
         
             l[1].iniciativa();
-
-            
             
         }
 }
