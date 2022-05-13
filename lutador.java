@@ -20,6 +20,11 @@ public class lutador {
         System.out.println("A iniciativa é: "  + init);
     }
 
+    public int setInic(){
+        double randomico = Math.random();
+        int resultado = (int) (1 + randomico * (6-1));
+        return resultado;
+    }
     public void apresentacao(){
         System.out.println("----------------------------------");
         System.out.println("E comecará o combate!");
