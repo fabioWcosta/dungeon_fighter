@@ -2,7 +2,7 @@ public class principal {
         public static void main(String[] args) {
 
             lutador l[] = new lutador [5];
-            lutador l[1] = new lutador
+            lutador l[1] = new lutador[1];
             
             lutador l[0] = ("humano", 14, 2, 1, 10, "espada longa", 5, 2);
 
